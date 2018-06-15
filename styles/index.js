@@ -1,0 +1,1 @@
+export defaultStyle from './defaultStyle';
