@@ -10,7 +10,7 @@ export default class kadavulValthu extends Component {
       title: 'திருக்குறள்',
       headerRight: (
         <Icon
-        onPress={() => navigation.navigate('Home')}
+        onPress={() => navigation.navigate('தமிழ்')}
         name='home'
         color='white'
         />
